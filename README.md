@@ -12,4 +12,5 @@ Since the sun.audio library is now deprecated, related code has been deactivated
 
 ## Controls:
 Movement: Arrow-Keys
+
 Shoot: Spacebar
