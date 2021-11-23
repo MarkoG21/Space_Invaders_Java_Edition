@@ -1,0 +1,20 @@
+/**
+  *
+  * Beschreibung
+  *
+  * @version 1.0 vom 13.10.2016
+  * @author 
+  */
+
+public class Gegner extends Charaktere {
+  
+  // Anfang Attribute
+  // Ende Attribute
+  
+  // Anfang Methoden
+  public void schussRechtAbgeben() {
+    
+  }
+
+  // Ende Methoden
+} // end of Gegner

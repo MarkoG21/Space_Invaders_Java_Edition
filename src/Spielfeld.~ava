@@ -1,0 +1,22 @@
+/**
+  *
+  * Beschreibung
+  *
+  * @version 1.0 vom 13.10.2016
+  * @author 
+  */
+
+public class Spielfeld extends GUI {
+  
+  // Anfang Attribute
+  protected int hoehe;
+  protected int breite;
+  // Ende Attribute
+  
+  // Anfang Methoden
+  // Ende Methoden
+} // end of Spielfeld
+
+
+
+// Berechnung der Spielfeldgröße durch Auflösung

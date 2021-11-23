@@ -1,0 +1,24 @@
+/**
+  *
+  * Beschreibung
+  *
+  * @version 1.0 vom 13.10.2016
+  * @author 
+  */
+
+public class Spiellogik {
+  
+  // Anfang Attribute
+  // Ende Attribute
+  
+  // Anfang Methoden
+  public void starteSpiel() {
+    
+  }
+
+  public void trefferAbfrage() {
+    
+  }
+
+  // Ende Methoden
+} // end of Spiellogik
